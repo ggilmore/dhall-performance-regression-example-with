@@ -1,6 +1,6 @@
 # Performance regression in dhall 1.36.0 and `with`
 
-Note that the dhall files in both the fast and slow folder are identical (apart from the `.tool-versions` file which specifies the version of dhall to use to each test case).
+Note that the dhall files in both the fast and slow folder are identical (apart from the `.tool-versions` file which specifies the version of dhall to use for each test case).
 
 ## fast (dhall 1.35.0)
 
